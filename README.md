@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ```bash
 cd my-app
-npm install -r requirements.txt
+npm install axios
 npm install
 npm start
 ```
